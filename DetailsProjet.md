@@ -20,5 +20,6 @@ Fonctionnement:
 Informations de personnages stockées dans une base de données.
 Langage utilisé:
 -php5
+-MySQL
 -javascript
 
