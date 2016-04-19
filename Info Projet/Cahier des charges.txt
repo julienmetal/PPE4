@@ -30,7 +30,11 @@
 -Besoins
 -------------
 	Fonctionnels
+		La solution doit permettre au Game Master de visualiser efficacement et facilement les diverses informations qui constituent l'aventure ou qui gravitent autour.
+		La solution doit être à la fois exhaustive et malléable, afin de permettre aux joueurs de mettre à jour les informations concernant leur(s) Avatars dynamiquement.
+		La solution doit permettre un affichage et une gestion automatisée des informations d'aventure et de personnages.
 	Rédactionnels (Documentations, suivi du projet)
+		
 	Matériels
 	Logiciels (logiciels nécessaires au fonctionnement, interpreteur php, compilateur...etc)
 ------------------------------------------------------------------------------------------------------------------------
