@@ -1,0 +1,17 @@
+Quelle peut-être la structure du cahier des charges ?
+-Contexte
+	Périmètre d'action/de la situation
+	Centrer le projet (dans quel position se place-t-on par rapport au périmètre de la situation/problème
+-Problématique
+	Difficultés
+-Besoins
+	Fonctionnels
+	Rédactionnels (Documentations, suivi du projet)
+	Matériels
+	Logiciels (logiciels nécessaires au fonctionnement, interpreteur php, compilateur...etc)
+
+-Solution mise en oeuvre
+
+-Critiques
+
+/!\ La solution mise en oeuvre générera sans-doute une nouvelle problématique.
