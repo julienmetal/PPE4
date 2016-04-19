@@ -1,23 +1,59 @@
+------------------------------------------------------------------------------------------------------------------------
+--------------
 -Contexte
+--------------
 	Périmètre d'action/de la situation
 		Organisation d'un Jeu De Rôles sur table
 	Centrer le projet (dans quel position se place-t-on par rapport au périmètre de la situation/problème
 		En tant qu'Organisateur de parties de JDR sur table, je suis amené à planifier et gérer l'organisation des parties.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------
 -Problématique
+----------------------
 	Difficultés
 		-Sur le plan social, les présences ou non des uns et des autres participants ne sont pas renseignées, difficile donc de savoir qui fait partie de telle ou telle aventure (partie).
 		-L'inscription des différentes satistiques et autres tableaux inhérents à chaque personnage, se fait généralement au crayon effaçable, et autant par les traces laissées par les effacements succesifs que par la lisibilité des informations, ces fiches d'informatives deviennent rapidement illisibles et chaotiques.
 		-La connaissance des personnages, de leurs talents/capacités et de leur état n'est pas non-plus toujours exhaustive.
 		-Chaque personne pouvant être tanto joueur dans une aventure, et Game Master dans une autre, les confusions arrivent fréquemment. Confusions de rôles, confusions de personnages, confusions de statistiques, confusions de progression et de stade d'avancement...etc
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+-------------
 -Besoins
+-------------
 	Fonctionnels
 	Rédactionnels (Documentations, suivi du projet)
 	Matériels
 	Logiciels (logiciels nécessaires au fonctionnement, interpreteur php, compilateur...etc)
+------------------------------------------------------------------------------------------------------------------------
 
 
+
+
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------
 -Solution mise en oeuvre
+------------------------------------
 
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+--------------
 -Critiques
+--------------
 
+
+------------------------------------------------------------------------------------------------------------------------
 /!\ La solution mise en oeuvre générera sans-doute une nouvelle problématique.
